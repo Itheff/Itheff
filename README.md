@@ -1,0 +1,4 @@
+- Hello, I’m @Itheff (he/him)
+- I primarally program in Java, Python, and Lua
+- Currently learning the basics of website design and assorted programming languages like Golang
+- Currently a computer science student
