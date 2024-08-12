@@ -2,3 +2,4 @@
 - I primarally program in Java, Python, and Lua
 - Currently learning the basics of website design and assorted programming languages like Golang
 - Currently a computer science student
+- You can contact me on discord @itheff, my dm's are open
